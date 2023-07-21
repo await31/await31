@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://media2.giphy.com/media/TLI23y6POpXMfQX3rL/giphy.gif?cid=ecf05e47brfkn63hp17e9fhjtrjq9504hrzo408wvg8d71mk&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="await31" /> </p>
 <h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">A developer from Vietnam</h3>
+<h3 align="center">A student from Vietnam</h3>
 
 🌱 I’m currently learning **everything related to technology**
 
